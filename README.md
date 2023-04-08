@@ -1,5 +1,7 @@
 # Cryptocurrencies
 
+![Alt text](images/original_imagesoriginal_imageshttpsg.foolcdn.c.width-880_SfbkM9V.jpg)
+
 This challenge was a cryptocurrency analysis using Unsupervised Machine Learning and Pandas in Python
 
 ## Purpose
